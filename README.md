@@ -7,6 +7,8 @@ Current features include:
 
 1. Update all subscriptions with one click.
 
+2. Map sidebar subscription node colors to the subscription table.
+
 ## Installation & Usage
 
 1. Install a user script manager
